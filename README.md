@@ -1,4 +1,4 @@
-# REEVDF：基于指令进度速率感知的 Earliest Eligible Virtual Deadline First 调度算法
+# REEVDF：Rate-aware Earliest Eligible Virtual Deadline First 调度算法
 
 ## 摘要
 
